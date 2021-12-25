@@ -1,1 +1,0 @@
-Created starter website to practice using links, images, and different tools of html. This was done through the use of a recipe website that had paragraphs, different types of lists, images, and links to convery how to make a recipe. Also, there was the use of git commands for simple commits and pushing.
